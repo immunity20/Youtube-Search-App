@@ -1,0 +1,1 @@
+Youtube video search app with React based on Stephen Grider's React-Redux course (modifed of course, did follow strictly the instructions/tried alternative ways)
